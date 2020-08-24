@@ -1,0 +1,21 @@
+.container {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.Navigation_link {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  color: blue;
+  padding: 10px;
+  text-decoration: none;
+}
+.Navigation_link_active {
+  margin-top: 15px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  color: red;
+  padding: 10px;
+}

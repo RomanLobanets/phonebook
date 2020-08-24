@@ -1,0 +1,22 @@
+.form {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 500px;
+  padding: 10px;
+  box-shadow: 0px 5px 5px gray;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+.input {
+  width: 90%;
+  height: 40px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+}
